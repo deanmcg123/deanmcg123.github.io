@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta CHARSET="UTF-8">
+     <meta name="viewport" content="width=device-width">
+     <title>Dean McGuigan CV</title>
+     <link rel="stylesheet" href="./css/style.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+ <header>
+   <div class="container">
+     <div id="branding">
+       <h1>CV</h1>
+     </div>
+     <nav>
+       <ul>
+          <li class="current"><a href="index.html">Home</a></li>
+          <li><a href="qualifications.html">Qualifications</a></li>
+          <li><a href="experience.html">Experience</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="contact.html">Contact</a></li>
+       </ul>
+     </nav>
+   </div>
+ </header>
+
+ <section id="showcase">
+     <div class="container">
+       <h1> About me</h1>
+       <p>My name is Dean McGuigan I am a 23 year old student from Monaghan currently studying computer science in TU Dublin with an interest in pursuing a career in this sector in the future.</p>
+     </div>
+ </section>
+
+<footer>
+     <a href="#" class="fa fa-facebook"></a>
+     <a href="#" class="fa fa-Twitter"></a>
+     <a href="#" class="fa fa-Instagram"></a>
+     <a href="#" class="fa fa-Whatsapp"></a>
+</footer>
+</body>
+</html>
